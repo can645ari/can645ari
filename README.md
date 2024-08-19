@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋,
+#### I am a Software Engineering Student
 
-<!--
-**can645ari/can645ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub+Page)
+## About Me
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Can, I am a software engineering student and a software intern candidate who always aims to grow and learn in the software world with my passionate interest in software and my desire to constantly learn. I work determinedly to improve my problem-solving skills and technical abilities, and aim to participate in innovative projects and strengthen my team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- 💻 I specialize in languages such as Java, C, C++ , HTML, CSS and JavaScript.
+- 🚀 I'm always eager to learn and adapt to new technologies.
+
+### My GitHub Activity
+
+You can check out my GitHub repositories to see some of my latest projects and contributions. I'm constantly working on exciting stuff, so feel free to explore and get in touch if you want to collaborate or have any questions.
+
+### Get in Touch
+
+📫 You can reach me via email at caaan384@gmail.com
+
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/can-arı
+
+Skills: JAVA / C / C++ / JS / HTML / CSS / SQL
